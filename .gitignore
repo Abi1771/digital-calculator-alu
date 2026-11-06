@@ -1,0 +1,4 @@
+dump.vcd
+*.log
+xcelium.d/
+worklib/
